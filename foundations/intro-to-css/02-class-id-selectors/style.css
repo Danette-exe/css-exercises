@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.impaire {
+    background-color: pink; /* Ajout du point-virgule ici */
+    font-family: "Georgia", DejaVu sans, sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#troisieme {
+    font-size: 24px;
+}
+#quatrieme {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}

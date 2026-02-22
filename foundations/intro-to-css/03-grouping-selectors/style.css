@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.Click ,
+.No {
+    font-size:28px ;
+    font-family: Helvetica,"Times New Roman",sans-serif ; /*les guillemnt sont pour les police avec des espace dans leur nom*/
+
+}
+.Click {
+    background-color: black;
+    Color : White ;
+}
+.No {
+    background-color: yellow;
+}

@@ -1,0 +1,8 @@
+div {
+    background-color: red ; /*Ancienne ligne : color: white ; */ 
+    color: white ;  /*Ancienne ligne : background-color: red ; */
+    font-size: 32px;
+    text-align: center;
+    font-weight: blod;
+
+}
